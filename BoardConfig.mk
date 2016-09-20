@@ -83,4 +83,4 @@ TW_NO_EXFAT_FUSE := true
 TW_NO_EXFAT := true
 TARGET_RECOVERY_QCOM_RTC_FIX := true
 TW_MTP_DEVICE := " /dev/mtp_usb"
-TW_TARGET_USES_QCOM_BSP := false
+TW_INCLUDE_NTFS_3G := true
