@@ -6,7 +6,7 @@ Add to `.repo/local_manifests/trlteduos.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="ripee/android_device_samsung_trlteduos" path="device/samsung/trlteduos" remote="github" revision="android-7.1" />
+  <project name="ripee/twrp_android_device_samsung_trlteduos" path="device/samsung/trlteduos" remote="github" revision="android-7.1" />
 </manifest>
 ```
 
