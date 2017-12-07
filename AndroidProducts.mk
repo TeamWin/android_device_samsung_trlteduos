@@ -1,3 +1,1 @@
-PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device.mk \
-    $(LOCAL_DIR)/omni_trlteduoszh.mk 
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_trlteduos.mk
